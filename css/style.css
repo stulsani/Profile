@@ -1,0 +1,141 @@
+.contact img{
+  width: 50px;
+  height: 50px;
+}
+
+.home ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.home li {
+    float: left;
+}
+
+.home li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.home li a:hover {
+    background-color: #111;
+}
+
+#name{
+  text-align: center;
+  font-style: italic;
+  font-size: 40px;
+}
+.home p{
+  float: left;
+  padding: 90px;
+  width: 550px;
+  height: 450px;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.home img{
+  padding-right: 150px;
+  float: right;
+  width:400px;
+  height: 400px;
+}
+
+.Projects
+{
+  background-color: #515A5A;
+  position: absolute;
+  top: 825px;
+  width: 100%;
+  padding-left: 100px;
+  color: white;
+}
+
+.menu_header{
+  font-size: 50px;
+}
+
+.page-content{
+  font-size: 22px;
+}
+
+.Projects span {
+    display:block;
+    border-bottom:3px solid white;
+    width: 50%;
+    padding-bottom: 4px;
+}
+
+.projectname{
+  font-size: 40px;
+  color: pink;
+}
+
+.likes{
+  position: absolute;
+  background-color: #D4E6F1;
+  position: absolute;
+  top: 2700px;
+  width: 100%;
+  padding-left: 100px;
+  color: black;
+}
+
+.likes span {
+    display:block;
+    border-bottom:3px solid black;
+    width: 50%;
+    padding-bottom: 4px;
+}
+
+.likesheading{
+  font-size: 40px;
+  color: green;
+}
+
+.work{
+  position: absolute;
+  background-color: #FDEDEC;
+  position: absolute;
+  top: 3178px;
+  width: 100%;
+  padding-left: 100px;
+  color: black;
+}
+
+.workheading{
+  font-size: 40px;
+  color: green;
+}
+
+.workheading span{
+  text-align:right;
+  padding-left: 580px;
+  padding-top: 0px;
+  font-size: 40px;
+  color: green;
+}
+
+.work span {
+    display:block;
+    border-bottom:3px solid black;
+    width: 50%;
+    padding-bottom: 4px;
+}
+
+.contact{
+  position: absolute;
+  text-align: center;
+  top: 4360px;
+  padding-bottom: 70px;
+  color: white;
+  background-color: #5D6D7E;
+  width: 100%
+}
